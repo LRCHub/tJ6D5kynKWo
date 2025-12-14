@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "strawberry",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-14T07:38:28.168753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strawberry Wine - Remastered 2021",
+      "artist": "Deana Carter",
+      "has_synced": true,
+      "path": "select/01_Strawberry_Wine_-_Remastered_2021_Deana_Carter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Strawberry Wine",
+      "artist": "Deana Carter",
+      "has_synced": true,
+      "path": "select/02_Strawberry_Wine_Deana_Carter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Strawberry Wine",
+      "artist": "Deana Carter",
+      "has_synced": true,
+      "path": "select/03_Strawberry_Wine_Deana_Carter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Strawberry Swing",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/04_Strawberry_Swing_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Death of a Strawberry (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/05_Death_of_a_Strawberry_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Death Of A Strawberry",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/06_Death_Of_A_Strawberry_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strawberry André",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/07_Strawberry_André_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Strawberry Swisher Pt. 1",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/08_Strawberry_Swisher_Pt._1_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Strawberry Swisher Pt. 2",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/09_Strawberry_Swisher_Pt._2_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strawberry Swisher pt. 3",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/10_Strawberry_Swisher_pt._3_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strawberry Swisher, Pt. 3",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/11_Strawberry_Swisher,_Pt._3_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Strawberry Swisher, Pt. 3 (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/12_Strawberry_Swisher,_Pt._3_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Strawberry Privilege",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/13_Strawberry_Privilege_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Strawberry Peels (feat. Young Thug & Gunna)",
+      "artist": "Lil Uzi Vert feat. Gunna & Young Thug",
+      "has_synced": true,
+      "path": "select/14_Strawberry_Peels_(feat._Young_Thug_&_Gunna)_Lil_Uzi_Vert_feat._Gunna_&_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Strawberry Peels (feat. Young Thug & Gunna)",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/15_Strawberry_Peels_(feat._Young_Thug_&_Gunna)_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "strawberry",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_strawberry_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
